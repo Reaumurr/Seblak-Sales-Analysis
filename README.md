@@ -14,7 +14,7 @@ Using SMART framework:
 
 5. **Time-Bound**: Dilakukan dalam waktu 3 bulan.
 
-`Problem statement`:
+Problem statement:
 
 Analisa penjualan seblak di tokopedia untuk menentukan potensi pasar dan peluang bisnis dengan menjual 500 produk di awal dengan harga bersaing namun tetap mendapatkan margin ditengah persaingan harga dan dilakukan dalam waktu 3 bulan
 
